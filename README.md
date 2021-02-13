@@ -1,5 +1,7 @@
 # Abandoned - Moved to [rewritten version in flask](https://github.com/grzesjam/SDIP-ZTM-parser)
 
+# This project use removed version of SDIP 😢
+
 # SDIP kzkgop to simple output
 
 SDIP KZKGOP is tracking system for delays in city buses in Silesia (Without any API).
